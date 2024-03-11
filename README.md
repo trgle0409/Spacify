@@ -22,7 +22,7 @@ An Android booking app prototype with the aim of improving UI.
 * Run the app 
 
 ## Contributors
-* Dinh The Huy
-* Sohayl Kaur
-* Verrell Vimalaputra
-* Le Thanh Trung
+* Dinh The Huy (Entwickler)
+* Sohayl Kaur (Entwickler)
+* Verrell Vimalaputra (Entwickler)
+* Thanh Trung Le (Designer, Entwickler)
