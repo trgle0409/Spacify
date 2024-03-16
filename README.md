@@ -26,3 +26,8 @@ An Android booking app prototype with the aim of improving UI.
 * Mustername Mustermann (Entwickler)
 * Mustername Mustermann (Entwickler)
 * Thanh Trung Le (Designer, Entwickler)
+
+## Prototype
+
+https://www.figma.com/file/yIbv9Aqmx4HdIGva1yF9ax/HCI%2FBooking-Idea?type=design&mode=design&t=0fxNsMkrXvQ39fCM-1
+
